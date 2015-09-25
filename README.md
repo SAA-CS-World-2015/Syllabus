@@ -57,6 +57,8 @@ You will now find the design document inside the folder where you created your b
 2. Save your changes. 
 3. Committ your changes.
 4. Sync your changes to GH.
-5. Now add your code file inside the web folder. You can also use the boilerplate (sample) code to help you get started on a file if you need it.
+
+##Uploading Code
+Next we will add your code file inside the web folder. You can also use the boilerplate (sample) code to help you get started on a file if you need it.
 
 to be continued...

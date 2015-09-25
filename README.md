@@ -45,6 +45,18 @@ Now we are going to clone the repository to the desktop so you can start to work
 8. Now it will ask you where you want to save it. It may suggest GitHub under your Documents folder. This is a good place for it.
 9. With website selected on the left hand side, click the branch button. (It's to the left of the master button.)
 10. Give it either the name of your group, or your personal name if you are working on a personal level.
-11. After you click to create the branch, you will notice that the master button now has the name of your branch. You can use this button to switch what you are viewing.
+
+After you click to create the branch, you will notice that the master button now has the name of your branch. Now you can edit the files in the website folder and they will not affect the main branch. Any new things that I add to the main branch you can update to your branch as long as it doesn't conflict with something you have done.
+
+*important! Make sure you are always in your branch in GHD before making edits to your documents.*
 
 ##Edit the Design Document
+You will now find the design document inside the folder where you created your branch on your local computer.
+
+1. Edit that document and use it's format to create your final design document.
+2. Save your changes. 
+3. Committ your changes.
+4. Sync your changes to GH.
+5. Now add your code file inside the web folder. You can also use the boilerplate (sample) code to help you get started on a file if you need it.
+
+to be continued...
